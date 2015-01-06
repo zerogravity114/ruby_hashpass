@@ -1,4 +1,4 @@
 ruby_hashpass
 =============
 
-A simple Ruby program which takes a string and gives you a sha512 hash for an /etc/shadow file
+A simple Ruby program which asks for a password and returns a sha512 hash for an /etc/shadow file
